@@ -3,12 +3,19 @@ Proyecto de "Open Data" realizado para el modulo de "Open & Big Data". El proyec
 
 # CONTENIDO DEL PROYECTO
 * Archivos ".py"
-    *la codificación donde se realizo el scraping del supermercado casa rica, stock y la empresa de electrodomesticos NGO.
+         
+         la codificación donde se realizo el scraping del supermercado casa rica, stock y la empresa de electrodomesticos NGO.
+
 * Archivos ".csv" 
-    *los archivos contienen el la información de cada una de las paginas web utilizadas.
+ 
+         los archivos contienen el la información de cada una de las paginas web utilizadas.
+
 * Archivo ".docx"
-    *Este archivo contiene las licencias que existen en cada una de las páginas web utilizadas en el trabajo. 
+ 
+         Este archivo contiene las licencias que existen en cada una de las páginas web utilizadas en el trabajo. 
+
 * Archivo ".xls"
-    *"ANALISIS": Este archivo se genero con la finalidad de compactar las informaciones obtenidas, de modo a vizualizar mejor los precios y demás.
-    *"DICCIONARIO-DATOS": Este archivo corresponde a al diccionario de los datos, donde contiene y explica los datos que fueron utilizados en los archivos .csv 
+          
+          ANALISIS: Este archivo se genero con la finalidad de compactar las informaciones obtenidas, de modo a vizualizar mejor los precios y demás.
+          DICCIONARIO-DATOS: Este archivo corresponde a al diccionario de los datos, donde contiene y explica los datos que fueron utilizados en los archivos .csv 
     
