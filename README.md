@@ -27,6 +27,15 @@ En este caso no se necesita una instalación previa, debido a que se puede usar 
           ANALISIS: Este archivo se genero con la finalidad de compactar las informaciones obtenidas, de modo a vizualizar mejor los precios y demás.
           DICCIONARIO-DATOS: Este archivo corresponde a al diccionario de los datos, donde contiene y explica los datos que fueron utilizados en los archivos .csv 
     
+# PROGRAMACIÓN
+  Para la programación se utilizaron librerias como:
+  *Pandas
+  *Numpy
+  *Urllib.request
+  *BeautifulSoup
+  *Requests
+  
+
 # AUTORES
 * **Jeanine Sánchez Gill** - *Estudiante de tercer año* 
 * **Teresa Micaela Maldonado** - *Estudiante de tercer año* 
