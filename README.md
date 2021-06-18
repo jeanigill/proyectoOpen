@@ -1,4 +1,4 @@
-# proyectoOpen
+# Proyecto Open Data
 Proyecto de "Open Data" realizado para el modulo de "Open & Big Data". El proyecto se basa en extraer de las páginas los datos de un data set utilizando las tecnicas de scraping de páginas que se habia aprendido durante el modulo. Este proyecto se realiza en Python, especificamente en la plataforma de google colaboratory. Esta investigación tiene como objetivo poder obtener información util de los diferentes supermercados en la categoría de cafe y luego conocer el costo de algunos electrodomesticos, esto serviría como complemento para utilizarlo en el primer proyecto realizado en el modulo sobre un plan de negocios.
 
 # CONTENIDO DEL PROYECTO
