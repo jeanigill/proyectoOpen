@@ -19,5 +19,5 @@ Proyecto de "Open Data" realizado para el modulo de "Open & Big Data". El proyec
           ANALISIS: Este archivo se genero con la finalidad de compactar las informaciones obtenidas, de modo a vizualizar mejor los precios y demás.
           DICCIONARIO-DATOS: Este archivo corresponde a al diccionario de los datos, donde contiene y explica los datos que fueron utilizados en los archivos .csv 
     
-#CONCLUSION
+# CONCLUSION
 Toda la información recolectada de las diferentes páginas son con finalidades educativas y de investigación
