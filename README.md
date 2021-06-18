@@ -29,11 +29,11 @@ En este caso no se necesita una instalación previa, debido a que se puede usar 
     
 # PROGRAMACIÓN
   Para la programación se utilizaron librerias como:
-  *Pandas
-  *Numpy
-  *Urllib.request
-  *BeautifulSoup
-  *Requests
+* **Pandas
+* **Numpy
+* **Urllib.request
+* **BeautifulSoup
+* **Requests
   
 
 # AUTORES
