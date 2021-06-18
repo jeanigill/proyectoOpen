@@ -30,7 +30,8 @@ En este caso no se necesita una instalación previa, debido a que se puede usar 
 # AUTORES
 * **Jeanine Sánchez Gill** - *Estudiante de tercer año* 
 * **Teresa Micaela Maldonado** - *Estudiante de tercer año* 
+
 Estudiantes de la carrera Business Informatics en la Universidad Paraguayo Alemana.
 
 # CONCLUSION
-Toda la información recolectada de las diferentes páginas son con finalidades educativas y de investigación. Las personas involucradas en la realización del proyecto fueron: Jeanine Gill y Micaela Maldonado, estudiantes del tercer año de la carrera Business Informatics de la Universidad Paraguayo Alemana.
+Toda la información recolectada de las diferentes páginas son con finalidades educativas y de investigación.
