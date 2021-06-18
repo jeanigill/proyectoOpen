@@ -10,21 +10,15 @@ En este caso no se necesita una instalación previa, debido a que se puede usar 
 
 # LENGUAJE UTILIZADO
   
-  `Python`
+  `Python` `html`
+  
+  Obs: Es necesario tener un conocimiento básico de ambos lenguajes, en el caso de el html, para poder identificar las clases donde se almacena la información.
   
 # PROGRAMACIÓN
   Para la programación se utilizaron librerias como:
 * **Pandas**
           
           import pandas as pd
-      
-* **Numpy**
-
-           import numpy as np
-
-* **Urllib.request**
-  
-            from urllib.request import urlopen
     
 * **BeautifulSoup**
        
