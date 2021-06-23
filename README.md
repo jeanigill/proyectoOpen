@@ -1,12 +1,16 @@
 # Proyecto Open Data
-Proyecto de "Open Data" realizado para el modulo de "Open & Big Data". Se basa en extraer de las páginas los datos de un data set utilizando las tecnicas de scraping de páginas que se habia aprendido durante el modulo. Este proyecto se realiza en Python, especificamente en la plataforma de google colaboratory. Esta investigación tiene como objetivo poder obtener información util de los diferentes supermercados en la categoría de cafe y luego conocer el costo de algunos electrodomesticos, esto serviría como complemento para utilizarlo en el primer proyecto realizado en el modulo sobre un plan de negocios.
+Proyecto de "Open Data" realizado para el modulo de "Open & Big Data" y se divide en dos componentes.
+
+### Componente 1:
+Un Plan de Negocios utilizando datos abiertos.
+
+### Componente 2:
+Se basa en extraer de las páginas los datos de un data set utilizando las técnicas de scraping de páginas y se realiza en Python. Esta investigación tiene como objetivo poder obtener información util de los diferentes supermercados en la categoría de cafe y luego conocer el costo de algunos electrodomesticos, esto serviría como complemento para utilizarlo en el primer componente.
 
 # REQUISITOS
 Para la realización de este proyecto se necesita:
-              
-          Google Colaboratory - https://colab.research.google.com/notebooks/basic_features_overview.ipynb
-
-En este caso no se necesita una instalación previa, debido a que se puede usar en la nube. 
+ - Microsoft Word y Microsoft Excel            
+ - Google Colaboratory  - Servicio cloud para los códigos por lo no es necesario una instalación previa 
 
 # LENGUAJE UTILIZADO
   
@@ -32,11 +36,11 @@ En este caso no se necesita una instalación previa, debido a que se puede usar 
 # CONTENIDO DEL PROYECTO
 * Archivos ".py"
          
-         la codificación donde se realizo el scraping del supermercado casa rica, stock y la empresa de electrodomesticos NGO.
+         La codificación donde se realizo el scraping del supermercado casa rica, stock y la empresa de electrodomesticos NGO.
 
 * Archivos ".csv" 
  
-         los archivos contienen el la información de cada una de las paginas web utilizadas.
+         Los archivos contienen el la información de cada una de las paginas web utilizadas.
 
 * Archivo ".docx"
  
@@ -44,8 +48,8 @@ En este caso no se necesita una instalación previa, debido a que se puede usar 
 
 * Archivo ".xls"
           
-          ANALISIS: Este archivo se genero con la finalidad de compactar las informaciones obtenidas, de modo a vizualizar mejor los precios y demás.
-          DICCIONARIO-DATOS: Este archivo corresponde a al diccionario de los datos, donde contiene y explica los datos que fueron utilizados en los archivos .csv 
+         ANALISIS: Este archivo se genero con la finalidad de compactar las informaciones obtenidas, de modo a vizualizar mejor los precios y demás.
+         DICCIONARIO-DATOS: Este archivo corresponde a al diccionario de los datos, donde contiene y explica los datos que fueron utilizados en los archivos .csv 
 
 
 # AUTORES
